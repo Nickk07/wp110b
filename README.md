@@ -1,11 +1,16 @@
-# 課程:網頁設計 -- 筆記、習題與報告
+* _**This project mainly done by myself but I also use some online references,teacher's example**_
 
-欄位 | 內容
------|--------
-學期 | 110 學年度下學期
-學生 |  杨富荃
-學號末兩碼 | 42
-教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
-學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
-課程內容 | https://gitlab.com/ccc110/wp
-教材網址 | [陳鍾誠的網頁設計課程](https://kinmen6.com/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/README.md)
+## **References :**
+1. Learn coding from this guy [Mosh](https://www.youtube.com/c/programmingwithmosh).
+
+2. Some code references came from [Carlos](https://github.com/CarMoreno).
+
+3. Image uploaded from my phone pictures gallery.
+
+4. Thanks [Mitan](https://github.com/MitanEXE) for sharing some good method to complete a webpage.
+
+## **About the website**
+* This website is a personal blog website.
+* You can check anything related from me on the website~ 
+* The posts aren't up to date.
+* My personal number on "contact me" section~
